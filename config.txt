@@ -1,0 +1,5 @@
+fichier
+punctuations/lowercase/emptywords
+frequentiel
+vector
+frequentiel
